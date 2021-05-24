@@ -1,6 +1,5 @@
-# 520Love
-爱她，就要感动她
 
+爱她，就要感动她
 # 部署说明
 直接下载本仓库代码到本地，然后要修改的地方主要有：
 
@@ -12,21 +11,4 @@
 
 - 4.部署到 https://vercel.com/ 网站 就可以啦！
 
-# 最后
-如果觉得不错，欢迎点个 star，谢谢
 
-# 关于作者
-
-**加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
-
-<div  align="center">   <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/weichat001.jpeg" width = "300" height = "400" align=center/> </div>
-
-# 公众号
-
-分享一些有趣的东西，发在公众号里面，所以请各位大大也扫码关注，支持一波吧
-
-<p align="center">
-  <a href="https://github.com/rongweihe/MoreThanCode/">
-      <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BA%95%E9%83%A8.jpeg" height="200" width="500">
-  </a>
-</p>
